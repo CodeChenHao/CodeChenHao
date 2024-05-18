@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![CodeChenHao's GitHub | Stats](https://stats.quine.sh/CodeChenHao/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=CodeChenHao)
 <!--
 **CodeChenHao/CodeChenHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
